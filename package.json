@@ -1,0 +1,27 @@
+{
+  "name": "case-rise-technology-server",
+  "version": "1.0.0",
+  "description": "Restful API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emredag/case-rise-technology-server.git"
+  },
+  "keywords": [
+    "nodejs",
+    "restful",
+    "api"
+  ],
+  "author": "Emre Dag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emredag/case-rise-technology-server/issues"
+  },
+  "homepage": "https://github.com/emredag/case-rise-technology-server#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
